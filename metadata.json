@@ -1,0 +1,6 @@
+{
+  "name": "MoneyVault",
+  "description": "Private Personal Finance App with double-entry accounting, Room database, PIN security, budgets, reports, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
